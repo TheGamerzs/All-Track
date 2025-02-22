@@ -1,0 +1,50 @@
+<CodeWalkerProject>
+  <Name>All Track</Name>
+  <Version value="2" />
+  <YmapFilenames />
+  <YtypFilenames />
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames>
+    <Item>trains1.dat</Item>
+    <Item>trains2.dat</Item>
+    <Item>trains3.dat</Item>
+    <Item>trains4.dat</Item>
+    <Item>trains5.dat</Item>
+    <Item>trains6.dat</Item>
+    <Item>trains7.dat</Item>
+    <Item>trains8.dat</Item>
+    <Item>trains9.dat</Item>
+    <Item>trains10.dat</Item>
+    <Item>trains11.dat</Item>
+    <Item>trains12.dat</Item>
+    <Item>trains13.dat</Item>
+    <Item>trains14.dat</Item>
+    <Item>trains15.dat</Item>
+    <Item>trains16.dat</Item>
+    <Item>trains17.dat</Item>
+    <Item>trains18.dat</Item>
+    <Item>trains19.dat</Item>
+    <Item>trains20.dat</Item>
+    <Item>trains21.dat</Item>
+    <Item>trains22.dat</Item>
+    <Item>trains23.dat</Item>
+    <Item>trains24.dat</Item>
+    <Item>trains25.dat</Item>
+    <Item>trains26.dat</Item>
+    <Item>trains27.dat</Item>
+    <Item>trains28.dat</Item>
+    <Item>trains30.dat</Item>
+    <Item>trains31.dat</Item>
+    <Item>trains32.dat</Item>
+    <Item>trains33.dat</Item>
+    <Item>trains34.dat</Item>
+  </TrainsFilenames>
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames />
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>

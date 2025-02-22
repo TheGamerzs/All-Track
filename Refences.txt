@@ -1,0 +1,58 @@
+1 Main
+1
+
+1 Quarry
+2
+
+1 Downtown Main
+3
+
+1 Metro
+4
+
+4 PB - TY
+30
+31
+32
+33
+
+2 Union Grain Storages
+19
+20
+
+1 Palmor-Taylor Power Plant
+34
+
+5 La Mesa - Trainyard
+
+2 La Mesa
+
+2 Terminal Bridge
+
+3 Terminal Crossing
+
+10 LS Terminal
+
+2 LS Port
+17
+18
+
+4 LS Marine / Pier / Dock
+13
+14
+15
+16
+
+12 Mirror-Park Railyard
+5
+6
+7
+9
+21
+22
+23
+24
+25
+26
+27
+28
