@@ -40,6 +40,10 @@
     <Item>data/trains32.dat</Item>
     <Item>data/trains33.dat</Item>
     <Item>data/trains34.dat</Item>
+
+    <!-- Junctions - used for junctions that connect two seperate tracks -->
+    <!-- trainsJ[track_file]to[track_file] -->
+    <Item>data/trains741.dat</Item>
   </TrainsFilenames>
   <ScenarioFilenames />
   <AudioRelFilenames />
